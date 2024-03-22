@@ -22,5 +22,11 @@ public class TestedeArray {
         //está faltando a inicialização
         //posso declarar, construir e inicializar na mesma linha
         int notas3[] = {5,6,7,8,9};
+
+        boolean resultados[] = {true, false, true, false};
+
+        String DiasdaSemana[] = {"seg", "ter", "qua", "qui", "sex", "sab", "dom"};
+
+        System.out.println(notas[2]);
     }
 }
